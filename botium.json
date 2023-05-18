@@ -1,0 +1,14 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "Dialogflow Sample",
+      "CONTAINERMODE": "dialogflow",
+      "DIALOGFLOW_PROJECT_ID": "testone-i9nj",
+      "DIALOGFLOW_CLIENT_EMAIL": "botium-test-srvc-account@testone-i9nj.iam.gserviceaccount.com",
+      "DIALOGFLOW_PRIVATE_KEY": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV4fifzfOKb26W\nz8lvK1lCM/zCzpeR+n3TJ8QJmyOdNbEkVFfno95hPgD/1z+cx+U9m9Jq2+6n9Bfy\nj0YLQnEs3HTA7gwNmqrIf5g7tcSayZAHhXkRZU9KRlGfUVbegM6wU5UDqukgOHta\nW1a2ggV/yIgj++9I4/jHUN4iRe1Iymui1jcQBEqMgIOtgtkilrtYhAxezqA3BfiX\nBZNXzZvT0bxEAvewc253CTid7Hdx6exFLTR+tsWi4Q0P6prjUxE2+ik7Uta5QlsB\n4oLuWGnw04aSddRgkYNY0esYGjWndPs3V6cBMeootjkEeumA3gInEAPLkQmvqixa\nOCKHZMCnAgMBAAECggEAMbNxImzE6Y7x+QiGH1sciht7IY4oLLwHpVF2bEkJkkQP\nraBaVfG8+Dn7UtspuO+AUOGu8MhlZ0RF/KUN8QXjSaEBBkjprkkvgLTu4j3wJ/PW\n0uersd0KYfLXdiEe0UGdSFMvArxV+d1A6kGHi5WqBSmWG3ibbGxMPqvOPUc62/vh\nmm1ZvRn+hJcD7tPzsntgx9q/huwYSXXC83O4cbR6eN/P2gNXWS8Zs3haygnVhqnK\nZse/UYMzH767vieVG/0RSBbabY1NFGJ7JH6bU40Y+BUlOHZSjdn+y/RFKI7une+4\nYy3ocIA4UTR7NhrtlQ9xefWjMg4szVf8tIfK7BMKIQKBgQDLwIxs7JH0gB0nu9uy\nPl7eml0W/bNuLITrZt2sQh/U74MCWTaV0qMnaTvk7Sm4XbWIcFCghq5FhVZUGONp\n60HPn7x5M+S3Me12iVoFiA5yU/WI889Do480pCLxoNbJmnTgbrDRLURtkh7NOakG\nuDfjdncnTU3NOLdYaxWV245wlQKBgQC8USAiUTPoRthl0TxxmCGVXag25x5Qjl4J\nc41mMjjrKGpUZn8XIPoh/NypR0C/u5S8mQqu6AexIc7Q8DQm4/gIR6eVHnmKzL5m\nA6gDzlLd3yOqPxkHtoADtz0q+ol/mForbg+iKBNET5K0R1TVozlWmqZe+Hlv4Kzg\n4sim6xhxSwKBgQDAI+HIzgaNlUrpL2RsYBjCvrrOdYyBdwYZnzWnveuauArJaivp\neWtWPQy4Q1Y2gFgyRAgkeR1affT89UNvnOTA0JfBjEhA4ZpXUAtOcBF/iuFettxb\nop/nOmmhhtVF5JwXEQs5FwESetsFGTzmE07Q9+RBccrOno93l/QRD6zxSQKBgDny\n4OeOg2Gbw2V5gJcYEGWNP4E9l6eEV82iwEVNeRRsCGRWcg9k93PUAvcYVQVrLLbo\nhVATWKKaW7ER6Yp6Jk4t9pS9nvsmTATKZT5elENwMeJmrkYgU75Q+cKq+/rGoCCz\nKp5kpKElt2hAdwuSwcczqbSZ04yo36oIP2SV/ZyHAoGAESheE2DUj9dQboHjJu3O\nL8ntFDqzbX2u0p9jltaLmzr0Fd3Itp1KxHn4EXJ7YFtuwbyM/QHh494bmtpQWXMB\nFa0R1l3n1bf1oxwFeXTC09gEJSHXiJEPPiEkQWULCgudwrmeQfUpiLkrpU4oKgYs\n3r2tPzrD8obq+9W5Gev6qJE=\n-----END PRIVATE KEY-----\n",
+      "DIALOGFLOW_USE_INTENT": false
+    },
+    "Sources": {},
+    "Envs": {}
+  }
+}

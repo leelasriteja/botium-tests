@@ -1,0 +1,13 @@
+give me picture
+
+#me
+Hello, Bot!
+
+#bot
+hello_utt_bot_reply
+
+#me
+give me a picture
+
+#bot
+I didn't get that. Can you say it again?

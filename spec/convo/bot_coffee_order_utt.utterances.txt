@@ -1,0 +1,5 @@
+bot_coffee_order_utt
+Yeah I can get you a cup of coffee
+Yes, we have coffee!
+What type of coffee would you like to have
+Its a perfect day for a cup of coffee!

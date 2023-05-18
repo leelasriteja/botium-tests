@@ -1,0 +1,25 @@
+coffee_order_convo
+
+#me
+cup
+
+#bot
+Its a perfect day for a cup of coffee!
+
+#me
+hello
+
+#bot
+Hi! How are you doing?
+
+#me
+can i get a cup of coffee
+
+#bot
+Yes, we have coffee!
+
+#me
+coffee please
+
+#bot
+What type of coffee would you like to have

@@ -1,0 +1,19 @@
+my_first_convo
+
+#me
+hi
+
+#bot
+Hello! How can I help you?
+
+#me
+hello
+
+#bot
+Greetings! How can I assist?
+
+#me
+where can i find a chatbot
+
+#bot
+Sorry, could you say that again?

@@ -1,0 +1,6 @@
+me_coffe_order_utt
+cup of coffee
+Can I get a coffee here?
+2 cups of cappuchino
+Hey, Coffee please
+Hey, Can I get a cup of coffee?
