@@ -36,6 +36,8 @@ Which would look something like below,
 
 Some other useful references:
 
+To connect to Dialogflow agent and create intents - refer https://www.pragnakalp.com/botium-setup-and-test-case-generation-for-dialogflow-agent/
+
 My Google Dialogflow urls:
 
 https://dialogflow.cloud.google.com/#/agent/testone-i9nj/intents
