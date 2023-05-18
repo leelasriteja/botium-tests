@@ -28,6 +28,12 @@ If your terminal scroll doesn't work, try:
 
 > reset
 
+To view the report generated using our mocha test runner, you can go to "mochawesome-report/mochawesome.html" and open in chrome or any of your favourite browsers to view the report!
+
+Which would look something like below,
+
+<img width="1415" alt="Screen Shot 2023-05-18 at 6 27 19 PM" src="https://github.com/leelasriteja/botium-tests/assets/29068723/a7e1e88c-ef41-4f71-8233-ed594a902aac">
+
 Some other useful references:
 
 My Google Dialogflow urls:
